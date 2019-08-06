@@ -31,7 +31,7 @@ def monopoly_with_third_tier
         :lvl3 => 75,
         :lvl4 => 100
       },
-      :names => {"LIRR", "SIRR", "NJT",}
+      :names => {"LIRR", "SIRR", "NJT", "Amtrack"}
     }
   }
   monopoly_with_third_tier
