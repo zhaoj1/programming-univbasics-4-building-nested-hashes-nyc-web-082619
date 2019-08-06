@@ -25,10 +25,7 @@ def monopoly_with_third_tier
   # complexity.
   monopoly_with_third_tier = {:railroads => 
     {
-    :pieces => 
-      {
-        
-      }
+    :pieces => "4"
     }
   }
   monopoly_with_third_tier
